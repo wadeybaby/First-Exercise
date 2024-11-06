@@ -1,0 +1,25 @@
+
+
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section img:nth-child(1){
+    position: sticky
+    ;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+.content{
+    padding: 2em;
+}
+img{
+    width: 18em;
+}
